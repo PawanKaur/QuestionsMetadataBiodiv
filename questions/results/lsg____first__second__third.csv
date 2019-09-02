@@ -1,5 +1,5 @@
 ,,P(i),Sum over all n(ij),Total Responses,Organism,Environment,Quality,Mat & Subst,Method,Data Type,Process,Anatomy,Location,Time,Event,Person & Org,Human Inter,Other,None,Other Category,Comment
-geochemicalPara,geochemical parameters,0.08333333333333333,6,9,0,1,1,3,0,1,1,0,0,0,0,0,0,1,1,environmental parameter / environmental variable,Hm; not so easy. geochemical (parameters) is not the environment of the organism; but characterizes the environment (quality of the environment?) microbial diversity is not a trait of the organism; but maybe a trait of the group::geochemical parameter is not neccessarily a material or substance (e.g. pressure; which is a physical parameter describing the einvoronment)In the context of ecology; environmental paramenters (/variables) are factors determining the given environment; by influencing organisms or interactiong with other environmental parameters.In this logic "geochemical" would specify the type of the environmental parameter 
+,geochemicalPara,geochemical parameters,0.08333333333333333,6,9,0,1,1,3,0,1,1,0,0,0,0,0,0,1,1,environmental parameter / environmental variable,Hm; not so easy. geochemical (parameters) is not the environment of the organism; but characterizes the environment (quality of the environment?) microbial diversity is not a trait of the organism; but maybe a trait of the group::geochemical parameter is not neccessarily a material or substance (e.g. pressure; which is a physical parameter describing the einvoronment)In the context of ecology; environmental paramenters (/variables) are factors determining the given environment; by influencing organisms or interactiong with other environmental parameters.In this logic "geochemical" would specify the type of the environmental parameter 
 ,geochemical,0.1111111111111111,8,9,0,3,1,1,0,0,2,0,0,0,0,0,0,1,1,,
 ,microbial diversity,0.19444444444444442,14,9,2,0,3,0,0,0,0,0,0,0,0,0,0,3,1,community characteristic::Ecosystem service,
 ,groundwater,0.7777777777777777,56,9,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,,
@@ -12,7 +12,7 @@ yearChange,DOC,0.7777777777777777,56,9,0,0,0,8,0,0,0,0,0,0,0,0,0,1,0,,
 dataNeo,Neogloboquadrina pachyderma,0.7777777777777777,56,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
 ,Globigerina bulloides,0.7777777777777777,56,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
 biologicalSignals,biological signals,0.08333333333333333,6,9,0,1,2,0,1,1,2,0,0,0,0,0,0,2,0,,
-rootLength,root length,0.7777777777777777,56,9,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0,Trait::quantit‰t,
+rootLength,root length,0.7777777777777777,56,9,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0,Trait::quantit√§t,
 ,root,0.5833333333333333,42,9,0,0,0,0,0,0,0,7,0,0,0,0,0,1,1,plant part::Organism component or part::plant part,
 temporalDynamics,temporal dynamics of fungal communities,0.7777777777777777,56,9,0,0,1,0,0,0,8,0,0,0,0,0,0,0,0,,
 ,fungal communities,0.4444444444444444,32,9,6,2,0,0,0,0,0,0,0,0,0,0,0,1,0,(species) community,
@@ -29,7 +29,7 @@ bacteriumXY,Bacterium XY,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 soilDepth,carbon,0.5833333333333333,42,9,0,0,1,7,0,0,0,0,0,0,0,0,0,1,0,carbon may be organic or inorganic carbon - mat&Subst; if inorganic,soil depth again quality of the environment?
 ,soil depth,0.25,18,9,0,4,1,0,0,0,0,0,3,0,0,0,0,1,0,environmental parameter / variable,
 kindOfPlant,plants,0.7777777777777777,56,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,in this case plants might be the environment; not the organism
-,Arthrocladiella mougeotii (LÈv.) Vassilkov,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,Arthrocladiella mougeotii (L√©v.) Vassilkov,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 surfaceWater,samples,0.19444444444444442,14,9,0,0,0,2,3,3,0,0,0,0,0,0,0,0,1,,
 ,surface water,0.611111111111111,44,9,0,7,0,2,0,0,0,0,0,0,0,0,0,0,0,,
 marinePhages,marine phages,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
@@ -74,7 +74,7 @@ oxygen,oxygen concentration,0.25,18,9,0,1,4,3,0,0,0,0,0,0,0,0,0,1,0,environmenta
 ,sea water,0.4444444444444444,32,9,0,5,0,4,0,0,0,0,0,0,0,0,0,0,0,,
 ,mesopelagic zone,0.3611111111111111,26,9,0,5,0,1,0,0,0,0,3,0,0,0,0,0,0,,
 ,global ocean,0.4444444444444444,32,9,0,4,0,0,0,0,0,0,5,0,0,0,0,0,0,,
-,200-1000m (depth),0.2222222222222222,16,9,0,2,2,0,0,0,0,0,4,0,0,0,0,1,0,quantit‰t,
+,200-1000m (depth),0.2222222222222222,16,9,0,2,2,0,0,0,0,0,4,0,0,0,0,1,0,quantit√§t,
 karstStructure,karst structure of the aquifer,0.1388888888888889,10,9,0,2,2,3,0,1,0,0,0,0,0,0,0,1,0,,karst structure (of the aquifer) -> quality of environment?
 ,karst structure,0.1388888888888889,10,9,0,2,2,3,0,1,0,0,0,0,0,0,0,1,0,,
 ,aquifer,0.7777777777777777,56,9,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,,
@@ -249,7 +249,7 @@ vlpData,influence of rainfall events,0.25,18,9,0,0,1,0,0,0,4,0,0,0,1,0,0,3,0,mea
 ,VLP-data,0.7777777777777777,56,9,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,,
 birdDistribution,bird distribution,0.16666666666666666,12,9,2,0,2,0,0,2,0,0,0,0,0,0,0,3,0,spatial pattern::biod. var.::Paramter,
 ,Germany,1.0,72,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,,
-meanValue,mean value,0.19444444444444442,14,9,0,0,2,0,1,3,0,0,0,0,0,0,0,3,0,parameter?::measure::quantit‰t,
+meanValue,mean value,0.19444444444444442,14,9,0,0,2,0,1,3,0,0,0,0,0,0,0,3,0,parameter?::measure::quantit√§t,
 ,hydrochemical parameters,0.16666666666666666,12,9,0,0,2,0,0,3,0,0,0,0,0,0,0,2,2,parameter?; quality of environment?::environmental parameter / environmental variable:: var.::Ecosystem parameter,
 ,site,0.611111111111111,44,9,0,2,0,0,0,0,0,0,7,0,0,0,0,0,0,,
 crossKingdom,aquifer co-occurence patterns of microorganism,0.1388888888888889,10,9,1,0,2,0,0,2,0,0,0,0,0,0,0,3,1,species interaction::biod. var.::Parameter,aquifer co-occurence patterns (of microorganism) could also be parameters (cf. questions above) I do not know where to put cross kingdom level
@@ -282,11 +282,11 @@ preferentialFlow,trees,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 kammerFrost,weather,0.16666666666666666,12,9,0,4,1,0,0,0,1,0,0,0,1,0,0,1,1,environmental parameter / environmental variable,amount of rain & ~ precipitation -> quality of environment? I decided to categorize precipitation as event.
 ,last 4 weeks,1.0,72,9,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,,
 ,Kammerforst,1.0,72,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,,
-,amount of rain,0.19444444444444442,14,9,0,1,1,1,0,2,0,0,0,0,0,0,0,4,0,measure::environmental quality::quantit‰t::Parameter,
+,amount of rain,0.19444444444444442,14,9,0,1,1,1,0,2,0,0,0,0,0,0,0,4,0,measure::environmental quality::quantit√§t::Parameter,
 ,rain,0.19444444444444442,14,9,0,1,0,2,0,0,0,0,0,0,4,0,0,1,1,environmental parameter / environmental variable::var,
-,amount of precipitation,0.1111111111111111,8,9,0,1,1,1,0,2,0,0,0,0,0,0,0,3,1,measure::environmental quality::quantit‰t::Parameter,
+,amount of precipitation,0.1111111111111111,8,9,0,1,1,1,0,2,0,0,0,0,0,0,0,3,1,measure::environmental quality::quantit√§t::Parameter,
 ,precipitation,0.1388888888888889,10,9,0,1,0,2,0,0,0,0,0,0,3,0,0,2,1,environmental parameter / environmental variable::var::Parameter,
-coldSeeps,sulfate reduction rates,0.25,18,9,0,0,4,0,0,1,1,0,0,0,0,0,0,3,0,var; quantit‰t::Parameter,
+coldSeeps,sulfate reduction rates,0.25,18,9,0,0,4,0,0,1,1,0,0,0,0,0,0,3,0,var; quantit√§t::Parameter,
 ,sulfate reduction,0.5833333333333333,42,9,0,1,0,0,0,0,7,0,0,0,1,0,0,0,0,,
 ,sulfate,1.0,72,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,,
 ,cold seep,0.5,36,9,0,6,0,0,0,0,0,0,0,0,0,0,0,3,0,functional location::?,
@@ -303,7 +303,7 @@ rareSpecies,rare species,0.7777777777777777,56,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,p
 ,activities,0.4444444444444444,32,9,0,0,0,0,0,0,6,0,0,0,0,0,0,2,1,biod. var.,
 ,groundwater,0.7777777777777777,56,9,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,,
 iucnStatus,frog,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,I do not know; where to put IUCN red list. Could be some kind of method?
-,IUCN red list status,0.19444444444444442,14,9,0,0,2,0,0,3,0,0,0,0,0,1,0,3,0,classification::conservation status::quantit‰t,
+,IUCN red list status,0.19444444444444442,14,9,0,0,2,0,0,3,0,0,0,0,0,1,0,3,0,classification::conservation status::quantit√§t,
 ,IUCN red list,0.08333333333333333,6,9,0,0,0,0,1,1,0,0,0,0,0,2,2,1,2,document::legal aspect,
 landManagement,historic land-management,0.7777777777777777,56,9,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,land use,
 ,historic,0.41666666666666663,30,9,0,0,1,0,0,0,0,0,0,6,1,0,1,0,0,,
@@ -359,7 +359,7 @@ metaboliteProcess,organism,0.7777777777777777,56,9,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 ,structure,0.1111111111111111,8,9,0,0,2,1,0,0,0,2,0,0,0,0,0,2,2,?,
 aricideaAntarctica,Aricidea antarctica (Paranonidae),1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 speciesHungary,species,0.611111111111111,44,9,7,0,0,0,0,0,0,0,0,0,0,0,0,2,0,biod. var.,
-,B‰umler; J.A.,1.0,72,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,,
+,B√§umler; J.A.,1.0,72,9,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,,
 ,Hungary,1.0,72,9,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,,
 dnaData,DNA,0.2777777777777778,20,9,0,0,0,1,1,1,0,5,0,0,0,0,0,1,0,organism characteristic,I saw DNA in your examples for anatomy; but it might also be a substance.
 ,Amphimonhystrella sp. (Nematoda),1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
@@ -409,7 +409,7 @@ dataDnaRna,molecules,0.19444444444444442,14,9,1,0,1,4,0,0,0,2,0,0,0,0,0,1,0,,
 climaticPara,climatic parameters,0.19444444444444442,14,9,0,1,2,0,0,1,0,0,0,0,0,0,0,4,1,parameter::environmental parameter / environmental variable::Ecosystem parameter,I do not know where to put climatic.
 ,climatic,0.1111111111111111,8,9,0,2,2,0,0,1,0,0,0,0,0,0,0,2,2,Ecosystem parameter,
 ,groundwater discharge,0.41666666666666663,30,9,0,0,0,1,0,0,6,0,0,0,0,0,1,1,0,var.,
-,seepage water amount,0.2222222222222222,16,9,0,0,2,2,0,0,0,0,0,0,0,0,0,4,1,parameter?::measure::quantit‰t,
+,seepage water amount,0.2222222222222222,16,9,0,0,2,2,0,0,0,0,0,0,0,0,0,4,1,parameter?::measure::quantit√§t,
 ,seepage water,0.611111111111111,44,9,0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,,
 acquifersHydrogeo,aquifers,0.7777777777777777,56,9,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,,hydrogeochemical (properties) -> quality of environment?
 ,hydrogeochemical properties,0.19444444444444442,14,9,0,1,4,1,0,1,0,0,0,0,0,0,0,2,0,environmental parameter /environmental variable,
@@ -480,7 +480,7 @@ treeSpeciesDiv,global map,0.2222222222222222,16,9,0,0,0,0,1,4,0,0,2,0,0,0,0,2,0,
 ,tree species diversity,0.19444444444444442,14,9,1,0,2,0,0,1,0,0,0,0,0,0,0,4,1,biodiversity response; index::biod. var.::Ecosystem service,
 ,tree species,1.0,72,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
 filtrationVolume,effect of filtration volume,0.1388888888888889,10,9,0,0,2,0,1,0,2,0,0,0,1,0,0,3,0,parameter?::effect,I do not know where to put different types.
-,filtration volume,0.16666666666666666,12,9,0,1,3,1,1,0,0,0,0,0,0,0,0,3,0,measure::quantit‰t::Parameter,
+,filtration volume,0.16666666666666666,12,9,0,1,3,1,1,0,0,0,0,0,0,0,0,3,0,measure::quantit√§t::Parameter,
 ,filtration,0.5,36,9,0,0,0,0,3,0,6,0,0,0,0,0,0,0,0,,
 ,yield on DNA/RNA,0.08333333333333333,6,9,0,0,2,0,0,2,1,1,0,0,0,0,0,2,1,parameter?::domain::Parameter,
 ,DNA,0.19444444444444442,14,9,0,0,0,3,0,1,0,3,0,0,0,0,0,2,0,genetic,
